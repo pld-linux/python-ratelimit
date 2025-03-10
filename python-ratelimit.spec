@@ -9,7 +9,7 @@
 Summary:	A function decorator preventing a function from being called more often than that allowed
 Name:		python-%{module}
 Version:	2.2.1
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://github.com/tomasbasham/ratelimit/archive/refs/tags/v%{version}.tar.gz
